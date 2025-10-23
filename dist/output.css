@@ -928,6 +928,14 @@ body {
   width: 100%;
 }
 
+.w-\[300px\] {
+  width: 300px;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
 .flex-shrink {
   flex-shrink: 1;
 }
